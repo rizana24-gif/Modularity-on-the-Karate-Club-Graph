@@ -1,6 +1,6 @@
- DSC212 – Graph Theory Assignment
+DSC212 – Graph Theory Assignment
 ## Name: Rizana Anzar
-   No: IMS24193
+   Roll No: IMS24193
 # Modularity-Based Community Detection on the Karate Club Graph
 
 This project implements recursive spectral modularity partitioning to detect multiple communities in the classic Zachary’s Karate Club network. It demonstrates how mathematical concepts in network science (modularity, eigenvectors, community structure) can be translated into algorithms and visualized dynamically.
